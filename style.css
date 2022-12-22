@@ -1,0 +1,19 @@
+
+
+#navbar {
+    display: flex;
+    align-items: center;
+}
+
+.logo{
+    justify-content: space-between;
+}
+ 
+#navbar ul {
+    list-style-type: none;
+    display: flex;
+}
+#navbar li{
+    display: flex;
+    padding: 20px;
+}
